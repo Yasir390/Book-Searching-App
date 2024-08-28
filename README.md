@@ -1,16 +1,23 @@
-# book_tracker_paulo
+# book_tracker
 
-A new Flutter project.
+Search Books:
 
-## Getting Started
+- Find books by title, author, genre, or keywords
+- View detailed book information and summaries
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Read Books:
+- Access full text of available books
+- Adjustable reading interface for comfort
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Save Books:
+- Bookmark books for later reading
+
+Favorite Books:
+- Mark books as favorites
+- Easily access and manage a list of favorite books
+
+## Output
+![book reader app output](https://github.com/user-attachments/assets/d80ba78b-2496-4186-bd95-30d406139556)
+
